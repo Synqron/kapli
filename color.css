@@ -1,8 +1,8 @@
 :root {
-  --first: #359833;
-  --stripone: #3eb3a3;
-  --striptwo: #5e728d;
-  --stripthree: #7c433e;
+  --first: #359833 !important;
+  --stripone: #3eb3a3 !important;
+  --striptwo: #5e728d !important;
+  --stripthree: #7c433e !important;
 }
 
 /* #fbe00a → Bright Yellow
